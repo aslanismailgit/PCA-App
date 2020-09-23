@@ -12,4 +12,4 @@ This App is designed to carry out PCA.
 pls contact ismailaslan1@gmail.com for more info.
 Good luck
 https://github.com/aslanismailgit/PCA-App/blob/master/images/Welcome.png
-<img width=“964” alt=“java 8 and prio java 8  array review example” src=“https://github.com/aslanismailgit/PCA-App/blob/master/images/Welcome.png”>
+<img width=“964” alt=“java 8 and prio java 8  array review example” src=“./images/Welcome.png”>
