@@ -11,5 +11,14 @@ This App is designed to carry out PCA.
 
 pls contact ismailaslan1@gmail.com for more info.
 Good luck
-https://github.com/aslanismailgit/PCA-App/blob/master/images/Welcome.png
+
 ![alt text](https://github.com/aslanismailgit/PCA-App/blob/master/images/Welcome.png?raw=true)
+
+![alt text](https://github.com/aslanismailgit/PCA-App/blob/master/images/Dataentry.png?raw=true)
+
+![alt text](https://github.com/aslanismailgit/PCA-App/blob/master/images/PCA.png?raw=true)
+
+![alt text](https://github.com/aslanismailgit/PCA-App/blob/master/images/Results.png?raw=true)
+
+![alt text](https://github.com/aslanismailgit/PCA-App/blob/master/images/Boxplot1.png)
+
