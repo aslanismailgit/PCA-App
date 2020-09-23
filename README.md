@@ -11,3 +11,4 @@ This App is designed to carry out PCA.
 
 pls contact ismailaslan1@gmail.com for more info.
 Good luck
+<img src=“https://github.com/KrisKasprzak/ILI9341_t3_controls 207”>
