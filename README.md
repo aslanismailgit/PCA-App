@@ -12,4 +12,4 @@ This App is designed to carry out PCA.
 pls contact ismailaslan1@gmail.com for more info.
 Good luck
 https://github.com/aslanismailgit/PCA-App/blob/master/images/Welcome.png
-<img src=“images/Welcome.png”>
+<img src=“images\Welcome.png”>
