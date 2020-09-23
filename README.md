@@ -11,10 +11,4 @@ This App is designed to carry out PCA.
 
 pls contact ismailaslan1@gmail.com for more info.
 Good luck
-<img src=“https://github.com/aslanismailgit/PCA-App/blob/master/images/Welcome.png”>
-<img
-src=“images/Welcome.png”
-raw=true
-alt=“Subject Pronouns”
-style=“margin-right: 10px;”
-/>
+https://github.com/aslanismailgit/PCA-App/blob/master/images/Welcome.png
